@@ -1,0 +1,1 @@
+Port scanning using the lowest-level methods (ECHO, PING) to check the widest range of IPs in the shortest time possible, utilizing threads and binary sums. It sends ICMP messages and waits for a response—or lack thereof—to determine whether a connection is available.
